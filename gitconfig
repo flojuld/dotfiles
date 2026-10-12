@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = f.davidxx@g√mail.com
+	name = Florian DAVID
